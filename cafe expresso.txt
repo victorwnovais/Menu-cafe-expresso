@@ -1,0 +1,15 @@
+um site de uma cafeteria com um trem 'expresso'
+
+simbolo cores 	fundo=marrom	
+		trem=preto
+		sombra=amarelo
+
+o body atras marrom mais claro
+
+
+colocar uma linha embaixo do 'cafe expresso' ou simbolo
+
+
+trazer o main pra frente marrom mais escuro
+fazer uma lista com preços contendo tipos de cafes, sucos, lanches, etc...
+
